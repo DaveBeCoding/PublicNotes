@@ -1,13 +1,16 @@
-<p align="center">
-    UNI-HOTKEYs
+<h2 align="center">
+    <strong>UNI-HOTKEYs</strong>
+</h2>
+
+<p> 								
+<strong>DESKTOP LINUX</strong>
 </p>
-								
-# DESKTOP LINUX
 ```console
 stage document
 ```	
 
 ```javascript
+Win + D	Show Desktop
 Ctrl + C 	Copy any highlighted text, image, or some other object to the clipboard.
 Ctrl + V 	Paste copied text, image, or some other object from the clipboard.
 Ctrl + X 	Cut highlighted text, image, or some other object.
