@@ -26,7 +26,7 @@ Ctrl + Alt + F7 	Switch to the first graphical terminal.
 stage document
 ```
 
-```python
+```javascript
 Open the previous page from your browsing history in the current tab	Alt + Left arrow
 
 Open the next page from your browsing history in the current tab	Alt + Right arrow
@@ -38,7 +38,7 @@ Close the current window	Ctrl + Shift + w or Alt + F4
 
 # Vim
 
-```json
+```console
 stage
 ```
 
