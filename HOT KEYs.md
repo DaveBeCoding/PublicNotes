@@ -1,6 +1,6 @@
 								uniHOT-KEYs
 								
-#DESKTOP
+# DESKTOP
 stage document	
 
 ```javascript
@@ -20,7 +20,7 @@ Ctrl + Alt + F7 	Switch to the first graphical terminal.
 
 
 
-#BROWSER(s)
+# BROWSER(s)
 
 ```vim 
 stage document
@@ -36,6 +36,6 @@ Close the current tab	Ctrl + w or Ctrl + F4
 Close the current window	Ctrl + Shift + w or Alt + F4
 ```
 
-#Vim
+# Vim
 
 
