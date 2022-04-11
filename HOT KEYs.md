@@ -1,4 +1,6 @@
-					# uniHOT-KEYs
+<p align="center">
+    UNI-HOTKEYs
+</p>
 								
 # DESKTOP
 ```console
