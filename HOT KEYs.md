@@ -1,0 +1,41 @@
+								uniHOT-KEYs
+								
+#DESKTOP
+stage document	
+
+```javascript
+Ctrl + C 	Copy any highlighted text, image, or some other object to the clipboard.
+Ctrl + V 	Paste copied text, image, or some other object from the clipboard.
+Ctrl + X 	Cut highlighted text, image, or some other object.
+Ctrl + S 	Save the currently opened file.
+Ctrl + N 	Create a new file.
+Ctrl + Z 	Undo the last action.
+Ctrl + Q 	Quit the application in focus.
+Ctrl + Alt + F1 to F6 	Switch to a virtual console.
+Ctrl + Alt + F7 	Switch to the first graphical terminal.
+```
+
+
+
+
+
+
+#BROWSER(s)
+
+```vim 
+stage document
+```
+
+```yaml
+Open the previous page from your browsing history in the current tab	Alt + Left arrow
+
+Open the next page from your browsing history in the current tab	Alt + Right arrow
+
+Close the current tab	Ctrl + w or Ctrl + F4
+
+Close the current window	Ctrl + Shift + w or Alt + F4
+```
+
+#Vim
+
+
