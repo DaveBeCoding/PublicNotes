@@ -1,7 +1,9 @@
 								uniHOT-KEYs
 								
 # DESKTOP
-stage document	
+```console
+stage document
+``	
 
 ```javascript
 Ctrl + C 	Copy any highlighted text, image, or some other object to the clipboard.
@@ -22,7 +24,7 @@ Ctrl + Alt + F7 	Switch to the first graphical terminal.
 
 # BROWSER(s)
 
-```vim 
+```console 
 stage document
 ```
 
