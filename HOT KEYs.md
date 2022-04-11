@@ -41,7 +41,7 @@ Close the current window	Ctrl + Shift + w or Alt + F4
 # Vim
 
 ```console
-stage
+stage document
 ```
 
 
