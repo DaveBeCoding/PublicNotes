@@ -2,7 +2,7 @@
     UNI-HOTKEYs
 </p>
 								
-# DESKTOP
+# DESKTOP LINUX
 ```console
 stage document
 ```	
