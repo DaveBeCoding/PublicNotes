@@ -5,6 +5,7 @@
 <p> 								
 <strong>DESKTOP LINUX</strong>
 </p>
+
 ```console
 stage document
 ```	
@@ -26,8 +27,10 @@ Ctrl + Alt + F7 	Switch to the first graphical terminal.
 
 
 
+<p> 								
+<strong>BROWSER(s)</strong>
+</p>
 
-# BROWSER(s)
 
 ```console 
 stage document
@@ -43,7 +46,10 @@ Close the current tab	Ctrl + w or Ctrl + F4
 Close the current window	Ctrl + Shift + w or Alt + F4
 ```
 
-# Vim
+<p> 								
+<strong>Vim</strong>
+</p>
+
 
 ```console
 stage document
