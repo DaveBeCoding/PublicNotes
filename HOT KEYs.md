@@ -3,7 +3,7 @@
 # DESKTOP
 ```console
 stage document
-``	
+```	
 
 ```javascript
 Ctrl + C 	Copy any highlighted text, image, or some other object to the clipboard.
