@@ -71,11 +71,14 @@ stage document
 ```
 
 <h3>SYNOPSIS Ref</h3>
+
 ```console
+
 bold text -> type exactly as shown
 italic text -> replace with [your] argument
 [-abc] -> any or all arguments withion [ ] optional
 -a | -b -> either || !both
 arg ... -> repeatable
 [expression] ... -> expression in [] repeatable
+
 ```
