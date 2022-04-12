@@ -57,6 +57,7 @@ stage document
 </p>
 
 <h3>SYNOPSIS</h3>
+
 ```console
 1> The synopsis section usually gives some example use-cases. Sometimes sub-commands have different options, so several examples might be shown.
 
@@ -67,8 +68,8 @@ stage document
 4> Brackets in brackets just means that the second part is dependent on the first, and also itself optional. Some switches you can use on their own or add a value to them. Commas at the start of a bracket would indicate there can be multiple comma separated values.
 
 5> They lean on Regex concepts, but are meant to be human readable so don't follow all the escaping rules etc.
+```
 
-````
 <h3>SYNOPSIS Ref</h3>
 ```console
 bold text -> type exactly as shown
@@ -77,4 +78,4 @@ italic text -> replace with [your] argument
 -a | -b -> either || !both
 arg ... -> repeatable
 [expression] ... -> expression in [] repeatable
-````
+```

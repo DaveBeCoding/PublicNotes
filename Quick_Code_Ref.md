@@ -35,6 +35,7 @@ help([name]) -> interactive mode -> console
 ```
 
 <h3>Larger module, function description</h3>
+
 ```python
 
 """This is the summary line
@@ -47,7 +48,7 @@ line.
 
 # Notice the blank line above. Code should continue on this line.
 
-````
+```
 <hr>
 
 <p>
@@ -56,7 +57,7 @@ line.
 
 ```console
 stage document
-````
+```
 
 ```javascript
 stage section
