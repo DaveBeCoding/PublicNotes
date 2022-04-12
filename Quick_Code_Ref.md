@@ -7,9 +7,8 @@
 </p>
 
 ```console
-stage document, python -m pydoc
+View PyDoc module, and key uses
 ```	
-
 ```javascript
 python -m pydoc
 ```
