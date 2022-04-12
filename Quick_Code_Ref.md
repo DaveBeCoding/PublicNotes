@@ -49,6 +49,7 @@ line.
 # Notice the blank line above. Code should continue on this line.
 
 ```
+
 <hr>
 
 <p>
@@ -64,8 +65,10 @@ stage section
 ```
 
 <hr>
-<p> 								
+<p>
+
 <strong>C++</strong>
+
 </p>
 
 ```c++
@@ -74,4 +77,36 @@ stage section
 
 ```console
 stage document
+```
+
+<hr>
+<h3>
+<strong>Software Version(s) Update(s)</strong>
+</h3>
+<p>
+<div>
+    <ul id="first_set">
+    <p>
+        X.Y.Z, which generally corresponds to major.minor.patch:
+    </p>
+       <li class="item"> Major version numbers change whenever there is some significant change being introduced. For example, a large or potentially backward-incompatible change to a software package. </li>
+       <li class="item"> Minor version numbers change when a new, minor feature is introduced or when a set of smaller features is rolled out. </li>
+    </ul>
+    <ul id="second_Set">
+       <li class="item"> Patch numbers change when a new build of the software is released to customers. This is normally for small bug-fixes or the like. </li>
+       <li class="item"><br><p>Other variations use build numbers as an additional identifier. So you may have a large number for X.Y.Z.build if you have many revisions that are tested between releases. I use a couple of packages that are identified by year/month or year/release. Thus, a release in the month of September of 2010 might be 2010.9 or 2010.3 for the 3rd release of this year.
+
+There are many variants to versioning. It all boils down to personal preference.
+
+For the "1.3v1.1", that may be two different internal products, something that would be a shared library / codebase that is rev'd differently from the main product; that may indicate version 1.3 for the main product, and version 1.1 of the internal library / package.</p></li>
+</ul>
+</div>
+
+</p>
+```c++
+stage section [versions]
+```
+
+```console
+stage document [versions]
 ```
