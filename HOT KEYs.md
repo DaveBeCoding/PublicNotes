@@ -8,7 +8,7 @@
 
 ```console
 stage document
-```	
+```
 
 ```javascript
 Win + D	Show Desktop
@@ -23,16 +23,13 @@ Ctrl + Alt + F1 to F6 	Switch to a virtual console.
 Ctrl + Alt + F7 	Switch to the first graphical terminal.
 ```
 
-
-
-
+<hr>
 
 <p> 								
 <strong>BROWSER(s)</strong>
 </p>
 
-
-```console 
+```console
 stage document
 ```
 
@@ -50,9 +47,34 @@ Close the current window	Ctrl + Shift + w or Alt + F4
 <strong>Vim</strong>
 </p>
 
-
 ```console
 stage document
 ```
 
+<hr>
+<p> 								
+<strong>System</strong>
+</p>
 
+<h3>SYNOPSIS</h3>
+```console
+1> The synopsis section usually gives some example use-cases. Sometimes sub-commands have different options, so several examples might be shown.
+
+2> Brackets [] always denote optional switches, arguments, options, etc.
+
+3> Yes, the pipe | means or, particularly when inside brackets or parenthesis.
+
+4> Brackets in brackets just means that the second part is dependent on the first, and also itself optional. Some switches you can use on their own or add a value to them. Commas at the start of a bracket would indicate there can be multiple comma separated values.
+
+5> They lean on Regex concepts, but are meant to be human readable so don't follow all the escaping rules etc.
+
+````
+<h3>SYNOPSIS Ref</h3>
+```console
+bold text -> type exactly as shown
+italic text -> replace with [your] argument
+[-abc] -> any or all arguments withion [ ] optional
+-a | -b -> either || !both
+arg ... -> repeatable
+[expression] ... -> expression in [] repeatable
+````
