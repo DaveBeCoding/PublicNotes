@@ -64,6 +64,22 @@ stage document
 stage section
 ```
 
+
+<hr>
+<p>
+
+<strong>React</strong>
+
+</p>
+
+```react
+stage section
+```
+
+```console
+stage document
+```
+
 <hr>
 <p>
 
