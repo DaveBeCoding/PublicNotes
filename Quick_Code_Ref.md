@@ -169,3 +169,20 @@ stage section [versions]
 ```console
 stage document [versions]
 ```
+
+<hr>
+<p>
+
+<strong>Example Section</strong>
+
+</p>
+
+```javascript
+stage section
+```
+
+```javascript
+stage document
+```
+
+<hr>
