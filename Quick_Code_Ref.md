@@ -64,7 +64,6 @@ stage document
 stage section
 ```
 
-
 <hr>
 <p>
 
@@ -72,13 +71,57 @@ stage section
 
 </p>
 
-```react
-stage section
+<h3>Component(s) Passing Props</h3>
+
+```javascript
+import React from "react";
+import Child from "./Child";
+
+const Parent = () => {
+  const data = "Hello Everyone";
+  return (
+    <div>
+      <Child data={data} />
+    </div>
+  );
+};
+
+export default Parent;
 ```
 
-```console
-stage document
+<h3>Pass Props to child</h3>
+
+```javascript
+import React from "react";
+
+const Child = (props) => {
+  return <h2> {props.data} </h2>;
+};
+
+export default Child;
 ```
+
+<h3>Using component(s) in App.js</h3>
+
+```javascript
+import React from "react";
+import "./index.css";
+import Parent from "./Parent";
+
+const App = () => {
+  return (
+    <div className="App">
+      <Parent />
+    </div>
+  );
+};
+
+export default App;
+```
+
+<h3>DOM Display</h3>
+
+![](images/sampleOutputReact.png)
 
 <hr>
 <p>
@@ -115,6 +158,7 @@ stage document
 There are many variants to versioning. It all boils down to personal preference.
 
 For the "1.3v1.1", that may be two different internal products, something that would be a shared library / codebase that is rev'd differently from the main product; that may indicate version 1.3 for the main product, and version 1.1 of the internal library / package.</p>
+
 </div>
 </p>
 
