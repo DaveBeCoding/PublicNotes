@@ -42,7 +42,7 @@ Close the current tab	Ctrl + w or Ctrl + F4
 
 Close the current window	Ctrl + Shift + w or Alt + F4
 ```
-
+<hr>
 <p> 								
 <strong>Vim</strong>
 </p>
