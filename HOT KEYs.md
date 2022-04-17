@@ -90,12 +90,14 @@ vim -p /path/to/file1 /path/to/file2 /path/to/file3
 ```
 
 <h3>Current Window(s) & Tab(s)</h3>
+
 ```console
 :tabs
 
 ```
 
 <h3>Current File</h3>
+
 ```console
 
 :f
