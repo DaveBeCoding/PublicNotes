@@ -42,15 +42,68 @@ Close the current tab	Ctrl + w or Ctrl + F4
 
 Close the current window	Ctrl + Shift + w or Alt + F4
 ```
-
+<hr>
 <p> 								
 <strong>Vim</strong>
 </p>
 
+<h3>Open file(s)</h3>
+
 ```console
-stage document
+    
+vim /path/to/file1 /path/to/file2 /path/to/file3
+      
 ```
 
+<h3>Move across file(s)</h3>
+    
+```console
+   
+:n(ext)  # jumps to the next file
+:prev    # jumps to the previous file    
+    
+```
+
+<h3>Tabs file(s)</h3>
+
+```console
+
+vim -p /path/to/file1 /path/to/file2 /path/to/file3
+
+```
+
+<h3>New Tabs [normal mode ]</h3>
+
+```console
+
+:tabe [/path/to/file] (command-line command)
+
+```
+
+<h3>Split Window</h3>
+
+```console
+
+:sp[lit]   [/path/to/file]  # splits the window horizontally [and opens the file]
+:vs[plit]  [/path/to/file]  # splits the window vertically [and opens the file]
+
+```
+
+<h3>Current Window(s) & Tab(s)</h3>
+
+```console
+:tabs
+
+```
+
+<h3>Current File</h3>
+
+```console
+
+:f
+
+```
+    
 <hr>
 <p> 								
 <strong>System</strong>
