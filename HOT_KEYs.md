@@ -1,4 +1,183 @@
 <h2 align="center">
+    <strong>MAC VS CODE HOTKEYs</strong>
+</h2>
+
+<!-- <p> 								
+<strong>VS CODE</strong>
+</p>
+ -->
+```console
+stage document
+```
+
+```javascript
+Editing I
+
+⌥DOWN Move line down
+
+⌥UP Move line up
+
+⇧⌥DOWN Copy line down
+
+⇧⌥UP Copy line up
+
+⇧⌘K Delete line
+
+⌘↵ Insert line below
+
+⇧⌘↵ Insert line above
+
+Editing II
+
+⇧⌘\ Jump to matching bracket
+
+⌘] Indent line
+
+⌘[ Outdent line
+
+⌘UP Go to beginning of file
+
+⌘DOWN Go to end of file
+
+⌥⌘[ Fold region
+
+⌥⌘] Unfold region
+
+Editing III
+
+⌘K⌘[ Fold all subregions
+
+⌘K⌘] Unfold all subregions
+
+⌘K⌘0 Fold all regions
+
+⌘K⌘J Unfold all regions
+
+⌘/ Toggle line comment
+
+⇧⌥A Toggle block comment
+
+⌥Z Toggle word wrap
+
+Multi-cursor / Selection I
+
+⌥⌘UP Insert cursor above
+
+⌥⌘DOWN Insert cursor below
+
+⌘U Undo last cursor operation
+
+⇧⌥I Insert cursor at end of each line selected
+
+⌘L Select current line
+
+⇧⌘L Select all occurrences of current selection
+
+⌘F2 Select all occurrences of current word
+
+Multi-cursor / Selection II
+
+⇧⌃⌘RIGHT Expand selection
+
+⇧⌃⌘LEFT Shrink selection
+
+⇧⌥⌘UP Column box selection up
+
+⇧⌥⌘DOWN Column box selection down
+
+⇧⌥⌘RIGHT Column box selection right
+
+⇧⌥⌘LEFT Column box selection left
+
+Search / Replace I
+
+⌘F Find
+
+⌥⌘F Replace
+
+⌘G Find next
+
+⇧⌘G Find previous
+
+⌘D Add selection to next Find match
+
+⌥↵ Select all occurrences of Find match
+
+⌘K⌘D Move last selection to next Find match
+
+Rich Languages Editing I
+
+⌃[SPACE] Trigger suggestion
+
+⇧⌘[SPACE] Trigger parameter hints
+
+⇧⌥F Format document
+
+⌘K⌘F Format selection
+
+F12 Go to definition
+
+⌥F12 Peek definition
+
+Rich Languages Editing II
+
+⌘KF12 Open definition to the side
+
+⌘. Quick fix
+
+⇧F12 Show references
+
+F2 Rename symbol
+
+⌘K⌘X Trim trailing whitespace
+
+⌘KM Change file language
+
+Navigation I
+
+⌃G Go to line...
+
+⌘P Go to file...
+
+⇧⌘O Go to symbol...
+
+⇧⌘M Show problems panel
+
+F8 Go to next error or warning
+
+⇧F8 Go to previous error or warning
+
+⌃- Go back
+
+⇧⌃- Go forward
+
+⇧⌃M Toggle tab moves focus
+
+Editor Management I
+
+⌘KF Close folder
+
+⌘\ Split editor
+
+⌘1 Focus info 1st editor window
+
+⌘2 Focus into 2nd editor window
+
+⌘3 Focus into 3rd editor window
+
+⌘K⌘LEFT Focus into previous editor window
+
+⌘K⌘RIGHT Focus into next editor window
+
+⌘K⇧⌘LEFT Move editor window left
+
+⌘K⇧⌘RIGHT Move editor window right
+```
+
+<hr>
+
+
+<h2 align="center">
     <strong>UNI-HOTKEYs</strong>
 </h2>
 
