@@ -70,6 +70,26 @@ if __name__ == '__main__':
 
 ```
 
+<h2>
+Create Virtual Envirement
+</h2>
+
+```python
+
+# Step 1
+
+python -m venv /location/of/dir
+
+# Step 2
+
+source example_env/bin/activate
+
+# Exit Venv
+
+deactivate
+
+```
+
 
 <hr>
 
