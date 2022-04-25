@@ -90,6 +90,14 @@ deactivate
 
 ```
 
+```python
+from <module> import <function1>, <function2>, ...
+
+# exmaple
+
+from os import listdir, system
+```
+
 
 <hr>
 
