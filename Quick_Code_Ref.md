@@ -235,3 +235,18 @@ stage document
 ```
 
 <hr>
+
+<h3>TODO</h3>
+```python
+# update test-branch to main ::
+# git fetch
+# git rebase [main]
+
+# history Display last n lines
+# history [n n*] (start-n end-n*) -> first (n's)
+
+# last [n n*]
+# history [-n -n*] -> last (-n's)
+
+
+```
