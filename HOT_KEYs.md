@@ -1,3 +1,16 @@
+<h1><strong>Need to Know</strong></h1>
+
+```python
+1> Breakpoints can be toggled by clicking on the editor margin or using F9 on the current line.
+
+```
+
+
+
+
+
+
+
 <h2 align="center">
     <strong>MAC VS CODE HOTKEYs</strong>
 </h2>
