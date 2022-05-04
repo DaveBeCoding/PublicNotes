@@ -3,6 +3,20 @@
 </h2>
 
 <p> 								
+<strong>Keyboard key names</strong>
+    
+ `	Acute, back quote, grave, grave accent, left quote, open quote, or a push.
+    
+ (	Open or left parenthesis.
+    
+ {	Open brace, squiggly brackets, or curly bracket.
+ 
+ 
+</p>
+
+
+
+<p> 								
 <strong>Python</strong>
 </p>
 
