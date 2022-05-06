@@ -2,6 +2,7 @@
 
 ```python
 1> Breakpoints can be toggled by clicking on the editor margin or using F9 on the current line.
+2> fn/globe + arrow_key (Left/Rght) Scroll top/bottom immediately, fn/globe + arrow_key (Up/Down) Scroll page(s) 
 
 ```
 
