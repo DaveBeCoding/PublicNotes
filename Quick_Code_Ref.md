@@ -18,6 +18,10 @@
 
 <p> 								
 <strong>Python</strong>
+ ```python
+    node.compute(*node.inputs) # * -> n-inputs unknown
+ ```
+    
 </p>
 
 ```python
