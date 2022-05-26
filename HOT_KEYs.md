@@ -5,8 +5,21 @@
 2> fn/globe + arrow_key (Left/Rght) Scroll top/bottom immediately, fn/globe + arrow_key (Up/Down) Scroll page(s) 
 3> Select Multiple lines, option+command + (arrow_key(s))
 4> Duplicate line of code -> shift+opt+Down/up
+5> Delete word, ⌥ + delete
 ```
 
+```python
+
+When a key combination is displayed, the modifiers are written in the order presented here. 
+For example, Control + Option + Shift + Command + Q would be written as ⌃⌥⇧⌘Q.
+
+Sym	Key	CrossPlat?	Alt	Alt CrossPlat?
+⌃	Control	Yes		
+⌥	Option	Yes		
+⇧	Shift	Yes		
+⌘	Command	Yes		No
+
+```
 
 
 
