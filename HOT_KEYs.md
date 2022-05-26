@@ -6,6 +6,7 @@
 3> Select Multiple lines, option+command + (arrow_key(s))
 4> Duplicate line of code -> shift+opt+Down/up
 5> Delete word, ⌥ + delete
+6> Highlight block/to end of line, shift+⌃+arrow
 ```
 
 ```python
