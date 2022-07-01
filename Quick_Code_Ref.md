@@ -273,7 +273,7 @@ stage document
 ```cpp
 //SCRATCH PADD
 
-self extracting shell script -> Tar file
+self extracting shell script -> Tar file -> embedded in sh
 
 
 
