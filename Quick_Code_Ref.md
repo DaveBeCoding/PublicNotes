@@ -275,6 +275,9 @@ stage document
 
 self extracting shell script -> Tar file -> embedded in sh
 
+//notes
+https://stackoverflow.com/questions/16962430/calling-python-script-from-c-and-using-its-output
+
 
 
 ```
