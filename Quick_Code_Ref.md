@@ -268,3 +268,13 @@ stage document
  last [n n*]
  history [-n -n*] -> last (-n's)
 ```
+
+
+```cpp
+//SCRATCH PADD
+
+self extracting shell script -> Tar file
+
+
+
+```
