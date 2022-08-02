@@ -21,8 +21,10 @@ https://scikit-learn.org/stable/tutorial/index.html
 
 ```R
 
-https://www..com/watch?v=WN5ZV4B2X7g
+https://www..com/watch?v=WN5ZV4B2X7g -> 2
 
 https://www..com/watch?v=12fPRMuNvq0
+
+https://..com/questions/16454129/python-h-header-file-missing-on-mac-os-x-10-6 -> s1
 
 ```
