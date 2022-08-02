@@ -23,4 +23,6 @@ https://scikit-learn.org/stable/tutorial/index.html
 
 https://www..com/watch?v=WN5ZV4B2X7g
 
+https://www..com/watch?v=12fPRMuNvq0
+
 ```
