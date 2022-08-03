@@ -4,6 +4,9 @@
 
 https://scikit-learn.org/stable/tutorial/index.html
 
+
+https://www..com/watch?v=52d7ha-GdV8
+
 ```
 
 
