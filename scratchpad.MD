@@ -33,3 +33,6 @@ https://www..com/watch?v=12fPRMuNvq0
 https://..com/questions/16454129/python-h-header-file-missing-on-mac-os-x-10-6 -> s1
 
 ```
+
+##MC
+https://www..com/watch?v=LmEcyQnfpDA
