@@ -27,7 +27,7 @@ https://www..com/watch?v=gOXoFDrseis
 ```R
 
 (httr) -> R
-
+/wiki/Query_string
 ```
 
 ```R
