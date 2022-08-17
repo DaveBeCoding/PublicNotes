@@ -33,7 +33,10 @@ https://www..com/watch?v=zlm1aajH6gY
 ```R
 
 (httr) -> R
+
 /wiki/Query_string
+
+/rapid/api
 ```
 
 ```R
