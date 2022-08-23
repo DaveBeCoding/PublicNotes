@@ -64,3 +64,13 @@ https://www..com/watch?v=LmEcyQnfpDA
 https://typeofnan.dev/an-easy-way-to-build-a-tree-with-object-references/
 
 ```
+
+
+```javascript
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+Also try the following with the desired .fileExtention:
+
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
+
+```
