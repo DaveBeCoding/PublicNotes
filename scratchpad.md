@@ -27,6 +27,8 @@ https://www..com/watch?v=QIUxPv5PJOY
 https://www..com/watch?v=zlm1aajH6gY
 
 https://www..com/watch?v=pPoLsRkBha4 <- 
+
+https://en.wikipedia.org/wiki/Fundamental_matrix
 ```
 
 
