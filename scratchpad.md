@@ -58,6 +58,14 @@ https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/
 https://www..com/watch?v=oBt53YbR9Kk
 
 https://www..com/watch?v=GDa7hrbcCB8
+
+
+
+
+https://thedailywtf.com
+
+https://bssw.io/items/things-you-should-never-do-part-i
+
 ```
 
 
