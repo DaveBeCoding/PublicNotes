@@ -48,6 +48,9 @@ https://numpy.org/doc/stable/reference/generated/numpy.memmap.html
 
 
 g4g -> top-50-graph-coding-problems-for-interviews/
+
+
+https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/
 ```
 
 ##BIG BRAIN
