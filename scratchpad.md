@@ -33,6 +33,10 @@ https://www..com/watch?v=pPoLsRkBha4 <-
 https://en.wikipedia.org/wiki/Fundamental_matrix
 
 https://numpy.org/doc/stable/reference/generated/numpy.memmap.html
+
+https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
+
+https://www.geeksforgeeks.org/graph-and-its-representations/
 ```
 
 
