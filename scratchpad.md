@@ -30,6 +30,13 @@ https://www.wired.com/2010/02/how-do-you-represent-vectors/
 
 https://menloservice.sandia.gov/https://www.larsoncalculus.com/calc10/content/algebra-help/matrices-and-determinants/operations-with-matrices/use-matrix-operations-to-model-and-solve-real-life-problems/
 
+https://www..com/results?search_query=essence+of+linear+algebra+3blue1brown
+https://www..com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+---------
+
+
+
 https://www..com/watch?v=zlm1aajH6gY
 
 https://www..com/watch?v=pPoLsRkBha4 <- 
