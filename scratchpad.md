@@ -26,6 +26,7 @@ https://www..com/watch?v=QIUxPv5PJOY
 ```javascript
 ∈ (mathematics) means that it is an element in the set of
 
+https://www.wired.com/2010/02/how-do-you-represent-vectors/
 
 https://menloservice.sandia.gov/https://www.larsoncalculus.com/calc10/content/algebra-help/matrices-and-determinants/operations-with-matrices/use-matrix-operations-to-model-and-solve-real-life-problems/
 
