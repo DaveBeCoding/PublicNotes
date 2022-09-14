@@ -24,6 +24,8 @@ https://www..com/watch?v=QIUxPv5PJOY
 
 ##MATH
 ```javascript
+∈ (mathematics) means that it is an element in the set of
+
 https://www..com/watch?v=zlm1aajH6gY
 
 https://www..com/watch?v=pPoLsRkBha4 <- 
