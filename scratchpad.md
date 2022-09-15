@@ -6,6 +6,9 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Ho
 
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 
+
+https://explainshell.com/explain?cmd=git+log+--all+--graph+--decorate+--oneline+--simplify-by-decoration
+
 ```
 
 #ML
