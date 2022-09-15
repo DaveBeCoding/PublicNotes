@@ -1,3 +1,10 @@
+#DevOps
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-use-the-git-log-graph-command
+
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+
+
 #ML
 
 ```javascript
